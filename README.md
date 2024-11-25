@@ -16,6 +16,6 @@ I'm Franck Rambonimanana, a passionate and self-taught developer specializing in
 ## Connect with me 🌐
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franck-rambonimanana-b578a833a/)
 
-Thank you for visiting my profile!
+Thank you for visiting my profile !
 
 
