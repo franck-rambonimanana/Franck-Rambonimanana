@@ -10,8 +10,8 @@ I'm Franck Rambonimanana, a passionate and self-taught developer specializing in
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 
 ## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical)
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=your_username)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=franck-rambonimanana&show_icons=true&theme=radical)
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=franck-rambonimanana)
 
 ## Connect with me 🌐
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franck-rambonimanana-b578a833a/)
