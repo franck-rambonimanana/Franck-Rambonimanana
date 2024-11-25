@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-![Aspiring Web Developer](https://res.cloudinary.com/diclj93tn/image/upload/v1732528843/DALL_E-2024-11-25-10.58_tzsvlw.png) 
-
+<img src="https://res.cloudinary.com/diclj93tn/image/upload/v1732528843/DALL_E-2024-11-25-10.58_tzsvlw.png" alt="Aspiring Web Developer" width="1000" />
 
 I'm Franck Rambonimanana, a passionate  and self-taught developer specializing in Web Development. I'm still a beginner in the field however I'm learning really fast and I always try to be up to date with everything link to the subjetct.
 
