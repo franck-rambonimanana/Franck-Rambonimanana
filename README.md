@@ -3,7 +3,7 @@
 ![Description de l'image](https://i.imgur.com/VeOupIh.png)
 
 
-I'm Franck Rambonimanana, a passionate and self-taught developer specializing in Web Development. I'm still a beginner in the field; however, I'm learning really fast and I always try to be up-to-date with everything related to the subject.
+I’m Franck Rambonimanana, a passionate and aspiring cybersecurity professional. My goal is to contribute to creating a safer digital world by designing secure systems, protecting sensitive information, and addressing emerging cyber threats.
 
 ## My Skills
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
