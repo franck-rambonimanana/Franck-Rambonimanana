@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Description de l'image](https://res.cloudinary.com/diclj93tn/image/upload/f_png/831c98472e09818b8530fa6585e736e4.png)
+![Description de l'image](https://i.imgur.com/VeOupIh.png)
 
 
 I'm Franck Rambonimanana, a passionate and self-taught developer specializing in Web Development. I'm still a beginner in the field; however, I'm learning really fast and I always try to be up-to-date with everything related to the subject.
