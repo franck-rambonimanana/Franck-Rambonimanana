@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Cybersecurity Banner](https://asset.cloudinary.com/diclj93tn/ae008c9fa7705e9f40239968be6fdb78)
+![Description de l'image](https://asset.cloudinary.com/diclj93tn/6e1924dca39e5571cd0a12c0437b51f4)
 
 I'm Franck Rambonimanana, a passionate and self-taught developer specializing in Web Development. I'm still a beginner in the field; however, I'm learning really fast and I always try to be up-to-date with everything related to the subject.
 
